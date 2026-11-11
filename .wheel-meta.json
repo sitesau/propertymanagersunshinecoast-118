@@ -1,0 +1,22 @@
+{
+  "wheel_id": 876,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-118",
+  "project": "property-management-sunshine-coast-suburb-guide-c5aefc134ac3e69",
+  "parent_t1_ref": "propertymanagersunshinecoast-158",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "property management sunshine coast suburb guide",
+  "intended_url": "https://aumedia.neocities.org/property-management-sunshine-coast-suburb-guide-c5aefc134ac3e69/",
+  "tier": "T2",
+  "writeback_nonce": "0df394bf666b134d",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/propertymanagersunshinecoast-158/",
+      "anchor": "Property Management Sunshine Coast Signs You Need: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
